@@ -712,12 +712,17 @@
     }
   
     .contact-info {
-      display: none;
+      padding-left: 0;
+      padding-top: 0.5rem;
+      display: block;
     }
   
     .contact-box {
       padding: 2.3rem 2rem;
       border-radius: 30px;
+  }
+    .information-wrap {
+      margin-top: 0.4rem;
     }
   
     .contact:before {
