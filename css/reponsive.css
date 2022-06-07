@@ -70,7 +70,7 @@
       font-size: 0.8rem;
       padding: 0.65rem 0.7rem;
     }
-  
+      
     .links a.active {
       font-size: 0.7rem;
       padding: 0.7rem 1.7rem;
@@ -312,9 +312,7 @@
       margin: 0.4rem 0;
     }
   
-    .hireme {
-      padding: 8rem 0;
-    }
+    
   
     .footer {
       padding: 4rem 0;
@@ -532,36 +530,8 @@
       left: 59%;
     }
   
-    .records .wave1,
-    .records .triangle {
-      display: none;
-    }
-  
-    .records .container {
-      grid-template-columns: repeat(2, 1fr);
-    }
-  
-    .records .wave2 {
-      left: 48%;
-    }
-  
-    .records .sqaure2 {
-      bottom: 45%;
-      right: 50px;
-    }
-  
-    .testi-content {
-      margin-top: 1.7rem;
-    }
-  
-    .testi-content .image {
-      max-width: 500px;
-      margin: 0 auto;
-    }
-  
-    .review-nav {
-      bottom: 3rem;
-    }
+    
+   
   
     .contact-box {
       grid-template-columns: 1fr;
@@ -670,34 +640,20 @@
       font-size: 0.92rem;
     }
   
-   
-  
-    .records .container {
-      grid-template-columns: 1fr;
+    .logo{
+      display: block;
+      height: auto;
+      max-width: 100%;
     }
-  
-    .records .half-circle {
-      top: 50%;
-      left: 50px;
-    }
+    
+    
   
     
     .testi-content {
       margin-top: 1rem;
     }
   
-    .review {
-      padding: 1.5rem 1rem;
-    }
-  
-    .review-text {
-      font-size: 0.9rem;
-    }
-  
-    .review-nav {
-      bottom: 1.5rem;
-      font-size: 1.3rem;
-    }
+    
   
     .swiper-button-next {
       right: 1.3rem;
@@ -729,10 +685,7 @@
       background-size: 200%;
     }
   
-    .contact-form .row {
-      grid-column-gap: 0.3rem;
-    }
-  
+    
     .contact-input {
       font-size: 0.8rem;
       padding: 0.8rem 1.4rem;
